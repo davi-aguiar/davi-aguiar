@@ -1,7 +1,7 @@
 ### Olá, eu sou o Davi  👋
 
 - 🌱 Estudando Java
-- 😄 Pronouns: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/davi-aguiar">
