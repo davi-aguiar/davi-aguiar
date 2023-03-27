@@ -19,8 +19,7 @@
 </div>
 
 ### Main skills:
-
-![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp; 
+<a href="https://www.java.com/en/" target="blank">
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
