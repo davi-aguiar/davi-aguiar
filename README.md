@@ -17,6 +17,7 @@
 <div align="center">  
 <a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
+ <a href="https://www.linkedin.com/in/davi-aguiar-22b956175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### Main skills:
 <a href="https://www.java.com/en/" target="blank">
