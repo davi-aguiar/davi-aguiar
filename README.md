@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Davi Aguiar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davi-aguiar&label=Profile%20views&color=0e75b6&style=flat" alt="davi-aguiar" /> </p>
-
 - 🔭 I’m currently working on **Mobile Developer Intern**
 
 - 🌱 I’m currently learning **Mobile Development**
