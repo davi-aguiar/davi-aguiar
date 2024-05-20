@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Davi Aguiar</h1>
 
-- 🔭 I’m currently working on **Mobile Developer Intern**
+- 🔭 I’m currently working on **Software Developer Intern**
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **daviaguiar2010@hotmail.com**
 
