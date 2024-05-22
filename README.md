@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **daviaguiar2010@hotmail.com**
+- 📫 How to reach me **aguiardavi170@gmail.com**
 
 - ⚡ Fun fact 
 
