@@ -1,13 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Davi Aguiar</h1>
 
-- 🔭 I’m currently working on **Software Developer Intern**
+- 🔭 I’m currently working on **IA/ML Intern**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **aguiardavi170@gmail.com**
-
-- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
